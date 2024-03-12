@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Inventory Update: Items about to finish",
+      "body": " Iron rod: <3pcs \n Cement: <50 bags",
+      "author": "maria",
+      "id": 1
+    },
+    {
+      "title": "Alert raised by Role",
+      "body": "The following alerts are raised by ID...",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "id": "a5e5",
+      "title": "Need for an Electrician",
+      "body": "We need 2 electricians at the offshore facility",
+      "author": "gabriel"
+    },
+    {
+      "id": "2a21",
+      "title": "need for helmet",
+      "body": "There is need for 10 more helmets at the project site",
+      "author": "gabriel"
+    }
+  ]
+}
